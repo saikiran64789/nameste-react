@@ -2963,7 +2963,7 @@ const parent = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
         id: "child"
     }, [
         /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "this sai react"),
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "I'm dfghjkals;dfjsavbsn")
+        /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "by saikira ")
     ]),
     /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
         id: "child"

@@ -1,3 +1,28 @@
-#heading{
-    color:red;
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.logo {
+    width: 100px;
+}
+
+.nav-items {
+    display: flex;
+    padding: 0px 20px;
+}
+
+.nav-items > ul {
+    font-size: 24px;
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-items > ul > li  { /* Corrected from .nov-items to .nav-items */
+    padding: 10px;
+    margin: 10px;
+}
+.items{
+    display: flex;
 }
